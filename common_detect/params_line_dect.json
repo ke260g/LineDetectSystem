@@ -1,0 +1,37 @@
+[
+    {
+        "comment": "角度分辨率",
+        "name": "rho",
+        "value": "1.0"
+    },
+    {
+        "comment": "角度的步进 1.0~10.0",
+        "name": "thetaAngle",
+        "value": "1.0"
+    },
+    {
+        "comment": "线段上点个数最小阈值",
+        "name": "threshold",
+        "value": "100"
+    },
+    {
+        "comment": "线段长度最小阈值",
+        "name": "minLineLength",
+        "value": "50"
+    },
+    {
+        "comment": "线段上两点间最小阈值",
+        "name": "minLineGap",
+        "value": "50"
+    },
+    {
+        "comment": "密度聚类-邻域中样本间最小距离",
+        "name": "MinD",
+        "value": "2.0"
+    },
+    {
+        "comment": "密度聚类-邻域中样本最小个数",
+        "name": "MinN",
+        "value": "1.0"
+    }
+]

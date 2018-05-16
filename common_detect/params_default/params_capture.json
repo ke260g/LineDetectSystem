@@ -1,0 +1,12 @@
+[
+    {
+        "name":"LightPower",
+        "value":"100.0",
+        "comment":"光源亮度 0~255"
+    },
+    {
+        "name":"ExposureTime",
+        "value":"50.0",
+        "comment":"曝光时间 毫秒"
+    }
+]

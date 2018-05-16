@@ -1,0 +1,53 @@
+{
+    "Canny":[
+        {
+            "name":"threshold1",
+            "value":"50.0",
+            "comment":""
+        },
+        {
+            "name":"threshold2",
+            "value":"150.0",
+            "comment":""
+        },
+        {
+            "name":"apertureSize",
+            "value":"3.0",
+            "comment":"Sobel-Kernel-Size"
+        }
+    ],
+    "Sobel":[
+        {
+            "name":"ddepth",
+            "value":"1",
+            "comment":"output-depth"
+        },
+        {
+            "name":"dx",
+            "value":"1.0",
+            "comment":""
+        },
+        {
+            "name":"dy",
+            "value":"1.0",
+            "comment":""
+        },
+        {
+            "name":"ksize",
+            "value":"3.0",
+            "comment":"kernel-size, 3, 5, 7"
+        }
+    ],
+    "Laplacian":[
+        {
+            "name":"ddepth",
+            "value":"1.0",
+            "comment":"output-depth"
+        },
+        {
+            "name":"ksize",
+            "value":"3.0",
+            "comment":"kernel-size, 3, 5, 7 "
+        }
+    ]
+}
